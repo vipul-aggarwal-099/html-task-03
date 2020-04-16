@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+}
+
+p {
+    font-size: 28px;
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+div ul {
+    font-size: 19px;
+}
