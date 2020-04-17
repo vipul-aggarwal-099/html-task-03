@@ -317,7 +317,15 @@ header {
     opacity: 0.25;
 }
 
-.services {
+.fname {
+    margin-bottom: 4em;
+}
+
+.lname {
+    margin-bottom: 4em;
+}
+
+.subject {
     margin-bottom: 4em;
 }
 
